@@ -1,4 +1,7 @@
 # babe-note-tauri-app
+
+> Still in progress and super early stage!
+
 The goal is to create a cross platform note integrated with local RAG LLM.
 
 ## Recommended IDE Setup
